@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: HiMyst
+title: 'HiMyst'
 subtitle: 'Welcome'
 description: 'Hello'
 keywords:
-author: HiMyst
+author: 'HiMyst'
 language: zh-CN
 timezone: ''
 
