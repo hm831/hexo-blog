@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'HiMyst'
-subtitle: 'Welcome'
-description: 'Hello'
+title: 'HiMyst Blog'
+subtitle: '妖怪が鍛えたこの楼観剣に 斬れぬものなど、殆ど無い！'
+description: 
 keywords:
 author: 'HiMyst'
 language: zh-CN
